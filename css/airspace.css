@@ -57,7 +57,7 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Dense-Regular', serif;
+  font-family: 'Volkhov', serif;
   font-style: italic;
   color: #666;
 }
@@ -85,7 +85,7 @@ header .navbar-default .navbar-nav {
 header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 10px 26px;
-  font-size: 25px;
+  font-size: 30px;
   font-family: 'Dense-Regular';
 }
 font header .navbar-default .navbar-nav li a:hover {
